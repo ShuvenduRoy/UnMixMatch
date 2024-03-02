@@ -11,7 +11,7 @@ Official implementation of our AAAI 2024 paper:
 
 ### Data
 - Labelled data: CIFAR-10, CIFAR-100, SVHN, STL-10 will be downloaded automatically.
-- Download and organize imagenet100 follwoing in instructions at https://github.com/danielchyeh/ImageNet-100-Pytorch 
+- Download and organize imagenet100 following the instructions at https://github.com/danielchyeh/ImageNet-100-Pytorch 
 
 ### Run the experiments
 
@@ -21,7 +21,7 @@ Official implementation of our AAAI 2024 paper:
 This settings will run UnMixMatch on CIFAR-10 with 40 labels per class and get and accuracy of 47.91&plusmn;1.1.
 
 ### Acknowledgement
-We would like to thank the authors of the following repositories for releasing their code. The implementation of UnMixMatch is build over the implementation of ReMixMatch from this repository: https://github.com/TorchSSL/TorchSSL
+We thank the authors of the following repositories for releasing their code. The implementation of UnMixMatch is built over the implementation of ReMixMatch from this repository: https://github.com/TorchSSL/TorchSSL
 
 
 ## Citing UnMixMatch
