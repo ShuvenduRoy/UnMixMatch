@@ -6,8 +6,23 @@ Official implementation of our AAAI 2024 paper:
 > Shuvendu Roy, Ali Etemad       
 > *In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-24)*
 
+**Unconstrained Setting**	
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/image-classification-on-cifar-10-40-labels)](https://paperswithcode.com/sota/image-classification-on-cifar-10-40-labels?p=scaling-up-semi-supervised-learning-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-34)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-34?p=scaling-up-semi-supervised-learning-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-35)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-35?p=scaling-up-semi-supervised-learning-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-29)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-29?p=scaling-up-semi-supervised-learning-with)	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-30)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-30?p=scaling-up-semi-supervised-learning-with)	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-33)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-33?p=scaling-up-semi-supervised-learning-with)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-svhn-8)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-svhn-8?p=scaling-up-semi-supervised-learning-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-svhn-7)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-svhn-7?p=scaling-up-semi-supervised-learning-with)	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-svhn-9)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-svhn-9?p=scaling-up-semi-supervised-learning-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-stl-5)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-stl-5?p=scaling-up-semi-supervised-learning-with)
 
+**OpenSet Setting**
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-36)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-36?p=scaling-up-semi-supervised-learning-with)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-37)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-37?p=scaling-up-semi-supervised-learning-with)	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/scaling-up-semi-supervised-learning-with/semi-supervised-image-classification-on-cifar-38)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-38?p=scaling-up-semi-supervised-learning-with)
 
 ### Data
 - Labelled data: CIFAR-10, CIFAR-100, SVHN, STL-10 will be downloaded automatically.
